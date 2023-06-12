@@ -1,0 +1,9 @@
+{
+  "server": [
+    "ms0836.utah.cloudlab.us:8080",
+    "ms0808.utah.cloudlab.us:8080",
+    "ms1235.utah.cloudlab.us:8080",
+    "ms1230.utah.cloudlab.us:8080",
+    "ms1242.utah.cloudlab.us:8080"
+  ]
+}
